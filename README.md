@@ -1,4 +1,4 @@
-# **OSSF Project/WG Name**
+# **OSSF Endusers**
 
 [Brief description of the initiative]
 
