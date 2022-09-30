@@ -49,7 +49,7 @@ The mission of the End User Working Group is to:
 
 *Draft - OpenSSF End User Working Group Intro Document*
 
-The Open Source Security Foundation (OpenSSF: https://openssf.org/), a cross-industry organization hosted at the Linux Foundation, is working with technology companies, enterprises and government bodies globally, to address the security of open- source software. The End Users Working Group (WG) represents the interests of public and private sector organizations in the OpenSSF that primarily consume open source rather than produce it.
+The Open Source Security Foundation (OpenSSF: [openssf.org](https://openssf.org/)), a cross-industry organization hosted at the Linux Foundation, is working with technology companies, enterprises and government bodies globally, to address the security of open- source software. The End Users Working Group (WG) represents the interests of public and private sector organizations in the OpenSSF that primarily consume open source rather than produce it.
 
 The mission of the End User Working Group (EUWG) is to ensure that the distinct and impactful voice of end users is heard in the development and delivery of the [technical vision](https://github.com/ossf/tac/blob/main/technical-vision.md) of OpenSSF. 
 
@@ -64,7 +64,7 @@ Introduction: [End User WG Intro](https://openssf.org/blog/2022/09/13/introducin
 
 ### Introduction to OpenSSF
 
-Open Source Security Foundation (OpenSSF)OpenSSF brings together the world’s most important open source security initiatives, and the companies and individuals that support them, to identify and fix security vulnerabilities in open- source software and develop improved tooling, training, research, best practices, and vulnerability disclosure practices. 
+Open Source Security Foundation (OpenSSF) brings together the world’s most important open source security initiatives, and the companies and individuals that support them, to identify and fix security vulnerabilities in open- source software and develop improved tooling, training, research, best practices, and vulnerability disclosure practices. 
 * For more information, please visit: [openssf.org](https://openssf.org).
 * For information on OpenSSF members, please visit: [openssf.org/about/members](https://openssf.org/about/members).
 * For information about The Linux Foundation, please visit: [linuxfoundation.org](https://linuxfoundation.org).
