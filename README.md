@@ -1,4 +1,4 @@
-# Best Practices for Open Source Developers
+# OSSF End Users
 
 Anyone is welcome to join our open discussions related to the group's mission and charter.
 
