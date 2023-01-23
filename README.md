@@ -1,64 +1,77 @@
-# **OSSF Endusers**
+# Best Practices for Open Source Developers
 
-[Brief description of the initiative]
+Anyone is welcome to join our open discussions related to the group's mission and charter.
 
+## Quick Start
 
-## 
-**Motivation**
+## Meeting times
 
-[Background / use cases of the problem to be solved]
+Every 2 weeks, Thursday 10am EST/3pm UTC. The meeting invite with zoom details is available on the [public OSSF calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
+### Areas that need contributions
 
-## 
-**Objective**
+TBD
 
-[What is to be achieved with this initiative]
+### Where to file issues
 
-[OKRs - OPTIONAL]
+Issues can be reviewed and filed [here](https://github.com/ossf/wg-endusers/issues)
 
+## Objective
 
-## 
-**Scope**
+_TBD - will pull from [Mission](https://docs.google.com/document/d/1PiOsbEfomuKofcEuLrVbq4zL8UhgS_pOmLI4XQhs8vs/edit)._
 
-[What is in and out of scope]
+## Vision
 
+_TBD - will pull from [Draft Deliverables](https://docs.google.com/document/d/1PiOsbEfomuKofcEuLrVbq4zL8UhgS_pOmLI4XQhs8vs/edit)._
 
-## 
-**Prior Work**
+## Scope
 
+TBD
 
+_Sample from Best Practices_
 
-*   List of prior and/or related projects
+_"The Developer Best Practices group wants to help identify and curate an accessible inventory of best practices
 
-# 
-**Get Involved**
+_Prioritized according to ROI for open source developers
+Categorized per technology, language, framework
+Community-curated
+Help build a community_
 
-*   Official communications occur on the [ADD LINK TO YOUR WG MAILING LIST] (ex: https://lists.openssf.org/g/openssf-tac/topics).  \
-[Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
-*   [Add Slack information if availabable]
+_Program to attract open source contributors and incentivize them to use and contribute to the inventory
+Supply a Learning platform -Any free course can be integrated into the platform_
 
-### 
-Quick Start
+_The learner can follow a track, track their progress and get badges
+A suite of exercises are available for each best practice of the inventory"_
 
-*   Areas that need contributions
-*   Build information if applicable
-*   Where to file issues
-*   Etc.
+## Current Work
 
-## 
-**Meeting times**
+TBD
 
-[TODO: Update with your WG meeting details]
-*   Every other Tuesday @ 10:00am PST (Link to calendar invite)
-*   [Meeting Minutes](https://docs.google.com/document/d/1uXQI1vI5_HyOvxHMexrnTY_ruBrynbPl5yOd1UM4g3A/edit#heading=h.yworp6sxzb6g)
+## Related Activities
 
-# 
-**Governance**
+TBD
 
-[TODO: Update this link to your specific CHARTER.md file]
-The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) outlines the scope and governance of our group activities.
+## Governance
 
+The [CHARTER.md](CHARTER.md) outlines the scope and governance of our group activities.
 
-[OPTIONAL]
-*   Lead name 
-*   Co-Lead name
+- Lead - 
+- Co-Lead - 
+
+### Project Maintainers
+
+TBD
+
+### Project Collaborators
+
+TBD
+
+### Project Contributors
+
+TBD
+
+## Antitrust Policy Notice
+
+Linux Foundation meetings involve participation by industry competitors, and it is the intention of the Linux Foundation to conduct all of its activities in accordance with applicable antitrust and competition laws. It is therefore extremely important that attendees adhere to meeting agendas, and be aware of, and not participate in, any activities that are prohibited under applicable US state, federal or foreign antitrust and competition laws.
+
+Examples of types of actions that are prohibited at Linux Foundation meetings and in connection with Linux Foundation activities are described in the Linux Foundation Antitrust Policy available at <http://www.linuxfoundation.org/antitrust-policy>. If you have questions about these matters, please contact your company counsel, or if you are a member of the Linux Foundation, feel free to contact Andrew Updegrove of the firm of Gesmer Updegrove LLP, which provides legal counsel to the Linux Foundation.
