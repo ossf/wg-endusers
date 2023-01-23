@@ -39,7 +39,7 @@ We strive to:
 
 ## Scope
 
-Based on the Objective and mission above, we look to deliver specific delivereables for each goal:
+Based on the objective, mission, and goals above, we look to deliver specific delivereables:
 
 - _Ensure that the use cases for end users consumption of open- source software is understood and factored into OSSF programmes._
   - Refine Personas document
@@ -48,14 +48,15 @@ Based on the Objective and mission above, we look to deliver specific delivereab
 - _Provide the resources required by End Users to develop and implement more efficient and effective strategies, processes, tools, best practices and solutions that secure software supply-chains_
   - Bring more end users and their perspectives into the End Users working group, ensuring representation from as many industries, sectors and geographical regions as possible
   - Contact list showing multiple Linux Foundation groups contacted, individual companies also contacted
-- _Establish End User representation and active participation in OpenSSF leadership, both TAC and the Governing Board_
+  - Development of guides, whitepapers and materials focused on strategies and solutions for better security in software supply chains and open source software, and targeted towards end users.
+    - Phase 1: Identify which guides / material is missing from existing material
+- _Provide a forum for learning from the experience and insights of peers_
+  - Establish End User representation and active participation in OpenSSF leadership, both TAC and the Governing Board_
   - Create matrix to show representation within working groups
     - Identify sub-team / focus areas
       - Recruitment
       - Marketing
       - Promote best practices and outreach
-- _Development of guides, whitepapers and materials focused on strategies and solutions for better security in software supply chains and open source software, and targeted towards end users._
-  - Phase 1: Identify which guides / material is missing from existing material
 
 ## Current Work
 
