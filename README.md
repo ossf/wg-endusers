@@ -51,7 +51,7 @@ Based on the objective, mission, and goals above, we look to deliver specific de
   - Development of guides, whitepapers, and materials focused on strategies and solutions for better security in software supply chains, open source software, and targeted towards end users.
     - Phase 1: Identify which guides / material is missing from existing material
 - _Provide a forum for learning from the experience and insights of peers_
-  - Establish End User representation and active participation in OpenSSF leadership, both TAC and the Governing Board_
+  - Establish end user representation and active participation in OpenSSF leadership, both TAC and the Governing Board_
   - Create matrix to show representation within working groups
     - Identify sub-team / focus areas
       - Recruitment
