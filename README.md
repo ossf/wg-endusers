@@ -1,6 +1,6 @@
 # OSSF End Users
 
-Anyone is welcome to join our open discussions related to the group's mission and charter.
+Anyone is welcome to join our open discussions.
 
 ## Quick Start
 
@@ -31,11 +31,11 @@ The End Users Working Group (WG) represents the interests of public and private 
 
 We strive to:
 
-- Ensure that the use cases for end user consumption of open- source software are understood and factored into OSSF programs.
-- Provide the resources required by End Users to develop and implement more efficient and effective strategies, processes, tools, best practices and solutions that secure software supply-chains
-- Provide a forum for learning from the experience and insights of peers
-- Create an End Users working group, with representation from key private industry, public sectors, and multiple geographical regions.
-- Establish user representation and active participation in OpenSSF working groups and leadership, both in the TAC and the Governing Board
+- Ensure that the use cases for end user consumption of open-source software are understood and factored into OSSF programs.
+- Provide the resources required by end users to develop and implement more efficient and effective strategies, processes, tools, best practices and solutions that secure software supply-chains.
+- Provide a forum for learning from the experience and insights of peers.
+- Create an End Users Working Group, with representation from key private industry, public sectors, and multiple geographical regions.
+- Establish user representation and active participation in OpenSSF working groups and leadership, both in the TAC and the Governing Board.
 
 ## Scope
 
@@ -44,11 +44,11 @@ Based on the objective, mission, and goals above, we look to deliver specific de
 - _Ensure that the use cases for end users consumption of open- source software is understood and factored into OSSF programmes._
   - Refine Personas document
   - Develop a high level architecture and threat model of an end user within the supply chain
-  - Identify controls/checks of interest to consumers when ingesting OSS / vendor software (OSSF Scorecard)
-- _Provide the resources required by End Users to develop and implement more efficient and effective strategies, processes, tools, best practices and solutions that secure software supply-chains_
-  - Bring more end users and their perspectives into the End Users working group, ensuring representation from as many industries, sectors and geographical regions as possible
+  - Identify controls/checks of interest to end users when ingesting OSS / vendor software (OSSF Scorecard)
+- _Provide the resources required by end users to develop and implement more efficient and effective strategies, processes, tools, best practices and solutions that secure software supply-chains_
+  - Bring more end users and their perspectives into the End Users Working Group, ensuring representation from as many industries, sectors and geographical regions as possible
   - Contact list showing multiple Linux Foundation groups contacted, individual companies also contacted
-  - Development of guides, whitepapers and materials focused on strategies and solutions for better security in software supply chains and open source software, and targeted towards end users.
+  - Development of guides, whitepapers, and materials focused on strategies and solutions for better security in software supply chains, open source software, and targeted towards end users.
     - Phase 1: Identify which guides / material is missing from existing material
 - _Provide a forum for learning from the experience and insights of peers_
   - Establish End User representation and active participation in OpenSSF leadership, both TAC and the Governing Board_
@@ -70,7 +70,7 @@ TBD
 
 The [CHARTER.md](CHARTER.md) outlines the scope and governance of our group activities.
 
-- Lead - 
+- Lead - Jon Meadows
 - Co-Lead - 
 
 ### Project Maintainers
