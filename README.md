@@ -35,7 +35,7 @@ We strive to:
 - Provide the resources required by end users to develop and implement more efficient and effective strategies, processes, tools, best practices and solutions that secure software supply-chains.
 - Provide a forum for learning from the experience and insights of peers.
 - Create an End Users Working Group, with representation from key private industry, public sectors, and multiple geographical regions.
-- Establish user representation and active participation in OpenSSF working groups and leadership, both in the TAC and the Governing Board.
+- Establish end user representation and active participation in OpenSSF working groups and leadership, both in the TAC and the Governing Board.
 
 ## Scope
 
