@@ -41,7 +41,7 @@ We strive to:
 
 Based on the objective, mission, and goals above, we look to deliver specific delivereables:
 
-- _Ensure that the use cases for end users consumption of open- source software is understood and factored into OSSF programmes._
+- _Ensure that the use cases for end user consumption of open-source software are understood and factored into OSSF programs._
   - Refine Personas document
   - Develop a high level architecture and threat model of an end user within the supply chain
   - Identify controls/checks of interest to end users when ingesting OSS / vendor software (OSSF Scorecard)
