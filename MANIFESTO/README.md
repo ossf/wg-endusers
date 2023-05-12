@@ -1,7 +1,3 @@
-<style>
-    ul {list-style-type: circle;}
-</style>
-
 # The Open Source Consumption Manifesto
 v 0.0 (public draft)
 
