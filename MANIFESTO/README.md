@@ -7,15 +7,15 @@ Open source doesn’t owe anything to an individual or organization.
 
 The availability, value, and quality of open source are not guaranteed.
 
-As consumers of open source, we are responsible for **the open source we use**, **how we consume it**, and **how we manage the risk associated with that consumption**.
+### As consumers of open source, we are responsible for *the open source we use*, *how we consume it*, and *how we manage the risk associated with that consumption*.
 
-Therefore we seek to:
+### We seek to...
 
 1. Prioritize secure consumption of open source components
 2. Be aware and considerate of the developer experience
 3. Build upon iterative policy-based foundations and best practices. 
 
-Given this, we call on commercial and non-commercial development organizations to…
+### We call on commercial and non-commercial development organizations to…
 
 * Accept open source software consumption as critical to building a secure software supply chain.
 <br>
