@@ -1,5 +1,5 @@
 # The Open Source Consumption Manifesto
-v 0.0 (public draft)
+_v 0.0 (public draft)_
 
 Open source is simultaneously a public good and a good of the public.
 
