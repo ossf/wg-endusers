@@ -1,4 +1,4 @@
-# OSSF End Users
+# OpenSSF End Users
 
 Anyone is welcome to join our open discussions.
 
@@ -23,7 +23,8 @@ Issues can be reviewed and filed [here](https://github.com/ossf/wg-endusers/issu
 
 ## Objective
 
-The End User Working Group aims to ensure that the distinct and impactful voice of end users is heard in the development and delivery of the technical vision of OpenSSF.
+The End User Working Group aims to ensure that the distinct and impactful voice of end users is heard in the development and delivery of the technical vision of 
+F.
 
 ## Vision
 
