@@ -32,7 +32,7 @@ The availability, value, and quality of open source are not guaranteed.
 * Improve open source software consumption via audit and quarantine functionality for components matching known vulnerabilities and malicious packages.
 <br> 
 
-* Focus on tools and processes that support and extend the abilities of development teams/developers to make informed judgments of consumed open source software. 
+* Focus on tools and processes that support and extend the abilities of development teams/developers to make informed evaluations of consumed open source software.
 <br>
 
 * Protect software organizations and development teams from malicious software by supporting established security models (e.g., SLSA, S2C2F, etc.) and then applying those models to the consumption of open source.
