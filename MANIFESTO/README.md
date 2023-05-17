@@ -45,3 +45,6 @@ The availability, value, and quality of open source are not guaranteed.
 <br>
 
 * Adopt and develop open source consumption management tooling and processes that support a recall ability similar to those in other industries.
+<br>
+
+* Ensure consumed open source components are appropriately lifecycle managed and that consuming developer teams are using latest, LTS, or otherwise "supported" releases where practical.
