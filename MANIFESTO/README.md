@@ -23,7 +23,7 @@ The availability, value, and quality of open source are not guaranteed.
 * Ensure that open source software consumption is balanced against a defined risk profile which can depend on risk tolerance, regulatory context, etc.
 <br>
 
-* Recognize potential risks associated with open source consumption, including vulnerabilities and malicious software.
+* Recognize potential risks associated with open source consumption, including vulnerabilities, malicious software and appropriateness of component choice.
 <br>
 
 * Acknowledge that not all vulnerabilities are actively curated, and the scoring systems (such as  CVSS used for CVEs) can be a trailing indicator.
