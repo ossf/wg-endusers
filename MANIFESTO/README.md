@@ -48,3 +48,6 @@ The availability, value, and quality of open source are not guaranteed.
 <br>
 
 * Ensure consumed open source components are appropriately lifecycle managed and that consuming developer teams are using latest, LTS, or otherwise "supported" releases where practical.
+<br>
+
+* Engage with the upstream developers of consumed components, especially for components which form a critical part of your project, to report issues, fix bugs, support development, etc.
