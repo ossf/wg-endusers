@@ -35,7 +35,7 @@ The availability, value, and quality of open source are not guaranteed.
 * Focus on tools and processes that support and extend the abilities of development teams/developers to make informed judgments of consumed open source software. 
 <br>
 
-* Protect software organizations and development teams from malicious software by supporting established security models (e.g., SLSA, S2C2F, etc.) and then applying those models to the consumption of open source.
+* Protect software organizations and development teams from malicious software by supporting established security models (e.g., [SLSA], [S2C2F], etc.) and then applying those models to the consumption of open source.
 <br>
 
 * Establish an open source consumption policy and regularly test against tolerance for risk, impact on development teams, and other goals.
@@ -45,3 +45,6 @@ The availability, value, and quality of open source are not guaranteed.
 <br>
 
 * Adopt and develop open source consumption management tooling and processes that support a recall ability similar to those in other industries.
+
+[SLSA]: https://slsa.dev/
+[S2C2F]: https://github.com/ossf/s2c2f
