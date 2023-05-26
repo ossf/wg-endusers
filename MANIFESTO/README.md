@@ -23,7 +23,7 @@ The availability, value, and quality of open source are not guaranteed.
 * Ensure that open source software consumption is balanced against a defined risk profile which can depend on risk tolerance, regulatory context, etc.
 <br>
 
-* Recognize potential risks associated with open source consumption, including vulnerabilities, malicious software and appropriateness of component choice.
+* Recognize potential risks associated with open source consumption, including vulnerabilities, malicious software and component choice.
 <br>
 
 * Acknowledge that not all vulnerabilities are actively curated, and the scoring systems (such as  CVSS used for CVEs) can be a trailing indicator.
@@ -47,7 +47,7 @@ The availability, value, and quality of open source are not guaranteed.
 * Adopt and develop open source consumption management tooling and processes that support a recall ability similar to those in other industries.
 <br>
 
-* Ensure consumed open source components are appropriately lifecycle managed and that consuming developer teams are using latest, LTS, or otherwise "supported" releases where practical.
+* Ensure the lifecylce of consumed open source components is appropriately managed and that consuming developer teams are using latest, LTS, or otherwise "supported" releases where practical.
 <br>
 
 * Engage with the upstream developers of consumed components, especially for components which form a critical part of your project, to report issues, fix bugs, support development, etc.
