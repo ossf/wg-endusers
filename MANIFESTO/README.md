@@ -29,7 +29,7 @@ The availability, value, and quality of open source are not guaranteed.
 * Acknowledge that not all vulnerabilities are actively curated, and the scoring systems (such as  CVSS used for CVEs) can be a trailing indicator.
 <br>
 
-* Improve open source software consumption via audit and quarantine functionality for components matching known vulnerabilities and malicious packages.
+* Improve open source consumption via audit and quarantine functionality for components matching known vulnerabilities and malicious packages.
 <br> 
 
 * Focus on tools and processes that support and extend the abilities of development teams/developers to make informed judgments of consumed open source software. 
@@ -44,4 +44,4 @@ The availability, value, and quality of open source are not guaranteed.
 * Work with teams to design and implement mindful control points for open source consumption throughout the SDLC.
 <br>
 
-* Adopt open source consumption management tooling, best practices, and processes to more effectively respond to security issues and facilitate risk communication to customers and partners through existing channels (e.g. CISA's CVD, VEX, etc.).
+* Adopt tooling, best practices, and processes to (1) continuously track, measure, and improve the security of open source software being consumed, (2) respond to security issues more effectively, and (3) facilitate risk communication to customers/partners through existing channels (e.g., CISA's CVD, VEX, etc.). 
