@@ -23,7 +23,7 @@ The availability, value, and quality of open source are not guaranteed.
 * Ensure that open source software consumption is balanced against a defined risk profile which can depend on risk tolerance, regulatory context, etc.
 <br>
 
-* Recognize potential risks associated with open source consumption, including vulnerabilities and malicious software.
+* Recognize potential risks associated with open source consumption, including vulnerabilities, malicious software and component choice.
 <br>
 
 * Acknowledge that not all vulnerabilities are actively curated, and the scoring systems (such as  CVSS used for CVEs) can be a trailing indicator.
@@ -32,10 +32,10 @@ The availability, value, and quality of open source are not guaranteed.
 * Improve open source consumption via audit and quarantine functionality for components matching known vulnerabilities and malicious packages.
 <br> 
 
-* Focus on tools and processes that support and extend the abilities of development teams/developers to make informed judgments of consumed open source software. 
+* Focus on tools and processes that support and extend the abilities of development teams/developers to make informed evaluations of consumed open source software.
 <br>
 
-* Protect software organizations and development teams from malicious software by supporting established security models (e.g., SLSA, S2C2F, etc.) and then applying those models to the consumption of open source.
+* Protect software organizations and development teams from malicious software by supporting established security models (e.g., [SLSA], [S2C2F], etc.) and then applying those models to the consumption of open source.
 <br>
 
 * Establish an open source consumption policy and regularly test against tolerance for risk, impact on development teams, and other goals.
@@ -45,3 +45,16 @@ The availability, value, and quality of open source are not guaranteed.
 <br>
 
 * Adopt tooling, best practices, and processes to (1) continuously track, measure, and improve the security of open source software being consumed, (2) respond to security issues more effectively, and (3) facilitate risk communication to customers/partners through existing channels (e.g., CISA's CVD, VEX, etc.). 
+<br>
+
+* Adopt and develop open source consumption management tooling and processes that support a recall ability similar to those in other industries.
+<br>
+
+* Ensure the lifecycle of consumed open source components is appropriately managed and that consuming developer teams are using latest, LTS, or otherwise "supported" releases where practical.
+<br>
+
+* Engage with the upstream developers of consumed components, especially for components which form a critical part of your project, to report issues, fix bugs, support development, etc.
+
+
+[SLSA]: https://slsa.dev/
+[S2C2F]: https://github.com/ossf/s2c2f
