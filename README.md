@@ -10,7 +10,7 @@ Every 2 weeks, Thursday 10am EST/3pm UTC. The meeting invite with zoom details i
 
 ### Meeting notes
 
-Meeting notes are [maintained in a Google Doc](https://docs.google.com/document/d/1KQalBRzfRBvsqh73JUYfp1KG-AJdXcv2Z8LTIFoQP8c/edit#). If attending please add your name, and if a returning attendee, please change the color of your name from gray to black.
+Meeting notes are [maintained in a Google Doc](https://docs.google.com/document/d/1abI65H4pF5y8YtA2_TuDBAaI47v9mTfpr5mwVvccX_I/edit). If attending please add your name, and if a returning attendee, please change the color of your name from gray to black.
 
 ### Areas that need contributions
 
@@ -23,8 +23,7 @@ Issues can be reviewed and filed [here](https://github.com/ossf/wg-endusers/issu
 
 ## Objective
 
-The End User Working Group aims to ensure that the distinct and impactful voice of end users is heard in the development and delivery of the technical vision of 
-F.
+The End User Working Group aims to ensure that the distinct and impactful voice of end users is heard in the development and delivery of the technical vision of The Open Source Security Foundation (OpenSSF).
 
 ## Vision
 
