@@ -23,8 +23,7 @@ Issues can be reviewed and filed [here](https://github.com/ossf/wg-endusers/issu
 
 ## Objective
 
-The End User Working Group aims to ensure that the distinct and impactful voice of end users is heard in the development and delivery of the technical vision of 
-F.
+The End User Working Group aims to ensure that the distinct and impactful voice of end users is heard in the development and delivery of the technical vision of The Open Source Security Foundation (OpenSSF).
 
 ## Vision
 
