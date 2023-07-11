@@ -44,10 +44,7 @@ The availability, value, and quality of open source are not guaranteed.
 * Work with teams to design and implement mindful control points for open source consumption throughout the SDLC.
 <br>
 
-* Adopt tooling, best practices, and processes to (1) continuously track, measure, and improve the security of open source software being consumed, (2) respond to security issues more effectively, and (3) facilitate risk communication to customers/partners through existing channels (e.g., CISA's CVD, VEX, etc.). 
-<br>
-
-* Adopt and develop open source consumption management tooling and processes that support a recall ability similar to those in other industries.
+* Adopt tooling, best practices, and processes to (1) continuously track, monitor, and improve the security of open source software being consumed, (2) respond to security issues more effectively, and (3) facilitate risk communication to customers/partners through existing channels (e.g., CISA's CVD, VEX, etc.). 
 <br>
 
 * Ensure the lifecycle of consumed open source components is appropriately managed and that consuming developer teams are using latest, LTS, or otherwise "supported" releases where practical.
