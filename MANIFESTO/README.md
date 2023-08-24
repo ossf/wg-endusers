@@ -54,7 +54,7 @@ The availability, value, and quality of open source are not guaranteed.
 <br>
 <p>
   Signatures:<br>
-  Brian Fox, Sonatype
+  Brian Fox, Sonatype<br>
   Jon Meadows, Chair OSSF End User Working Group
 
 </p>
