@@ -52,7 +52,11 @@ The availability, value, and quality of open source are not guaranteed.
 
 * Adopt tooling, best practices, and processes to (1) continuously track, monitor, and improve the security of open source software being consumed, (2) respond to security issues more effectively, and (3) facilitate risk communication to customers/partners through existing channels (e.g., CISA's CVD, VEX, etc.). 
 <br>
+<p>
+  Signatures:<br>
+  Brian Fox, OSSF GB & Sonatype
 
+</p>
 
 [SLSA]: https://slsa.dev/
 [S2C2F]: https://github.com/ossf/s2c2f
