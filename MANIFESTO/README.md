@@ -54,7 +54,7 @@ The availability, value, and quality of open source are not guaranteed.
 <br>
 <p>
   Signatures:<br>
-  Brian Fox, OSSF GB & Sonatype
+  Brian Fox, Sonatype
 
 </p>
 
