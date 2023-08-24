@@ -55,7 +55,8 @@ The availability, value, and quality of open source are not guaranteed.
 <p>
   Signatures:<br>
   Brian Fox, Sonatype<br>
-  Jon Meadows, Chair OSSF End User Working Group
+  Jon Meadows, OpenSSF End User Working Group Chair<br>
+  Christopher "Crob" Robinson, OpenSSF TAC Chair<br>
 
 </p>
 
