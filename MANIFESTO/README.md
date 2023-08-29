@@ -57,6 +57,7 @@ The availability, value, and quality of open source are not guaranteed.
   Brian Fox, Sonatype<br>
   Jon Meadows, OpenSSF End User Working Group Chair<br>
   Christopher "Crob" Robinson, OpenSSF TAC Chair<br>
+  Simone Ragonesi, Cloud Native Security Engineer @ Sighup.io<br>
 
 </p>
 
