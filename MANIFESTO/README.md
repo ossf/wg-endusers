@@ -1,5 +1,5 @@
 # The Open Source Consumption Manifesto
-_v 0.0 (public draft)_
+_v 1.0_
 
 Open source is simultaneously a public good and a good of the public.
 
@@ -58,7 +58,7 @@ The availability, value, and quality of open source are not guaranteed.
   Jon Meadows, OpenSSF End User Working Group Chair<br>
   Christopher "Crob" Robinson, OpenSSF TAC Chair<br>
   Olle E. Johansson, Edvina AB, Sweden<br>
-
+  Simone Ragonesi, Cloud Native Security Engineer @ Sighup.io<br>
 </p>
 
 [SLSA]: https://slsa.dev/
