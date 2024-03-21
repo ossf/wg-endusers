@@ -59,6 +59,8 @@ The availability, value, and quality of open source are not guaranteed.
   Christopher "Crob" Robinson, OpenSSF TAC Chair<br>
   Olle E. Johansson, Edvina AB, Sweden<br>
   Simone Ragonesi, Cloud Native Security Engineer @ Sighup.io<br>
+  Paolo Mainardi, CTO and founder @Sparkfabrik, Linux Foundation Europe advisory member<br>
+
   Chris Swan, Atsign<br>
 </p>
 
